@@ -16,7 +16,7 @@ AC_MSG_NOTICE([Configurations for the MD5 library])
 
 AC_PROG_CXX
 
-# AC_PROG_INSTALL
+AC_PROG_INSTALL
 AC_PROG_RANLIB
 
 # we need this for various settings
